@@ -2,14 +2,14 @@
 <h3 align="center">Hello, I'm Fatih, a second-year Information Systems Engineering student at Kocaeli University. With a solid foundation in C#, HTML, and CSS, I am currently focused on mobile app development using Kotlin. I am also expanding my skills in Java through an Object-Oriented Programming course, and I plan to further enhance my expertise by exploring C++, Python, and JavaScript in the near future. Passionate about continuous learning and applying new technologies to real-world projects.</h3>
 
 - 🔭 I’m currently working on [PalletMart](The Pallet Mart project is currently under development and will be available soon.)
-
+- 
 - 💬 Ask me about **Web , Android**
 
 - 📫 How to reach me **bilginfatih311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/fatih-bilgin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fatih-bilgin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fatih-bilgin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatih-bilgin" height="30" width="40" /></a>
 <a href="https://instagram.com/fatihhblgnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fatihhblgnn" height="30" width="40" /></a>
 </p>
 
