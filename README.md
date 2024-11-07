@@ -2,9 +2,8 @@
 <h3 align="center">Hello, I'm Fatih, a second-year Information Systems Engineering student at Kocaeli University. With a solid foundation in C#, HTML, and CSS, I am currently focused on mobile app development using Kotlin. I am also expanding my skills in Java through an Object-Oriented Programming course, and I plan to further enhance my expertise by exploring C++, Python, and JavaScript in the near future. Passionate about continuous learning and applying new technologies to real-world projects.</h3>
 
 - 🔭 I’m currently working on [PalletMart](The Pallet Mart project is currently under development and will be available soon.)
-- 
 - 💬 Ask me about **Web , Android**
-
+  
 - 📫 How to reach me **bilginfatih311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
