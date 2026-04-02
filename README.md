@@ -4,7 +4,6 @@ I'm a passionate builder who enjoys turning complex problems into scalable digit
 
 Currently, I'm diving deep into microservices orchestration, ASP.NET Core, and exploring the realms of cyber security. 
 
-When I'm not coding or managing Biltak, I'm probably exploring embedded systems, or planning my next travel adventure.
 
 Let's connect:
 [LinkedIn](https://linkedin.com/in/fatih-bilgin) | [Biltak](https://biltak.com) | [Instagram](https://instagram.com/fatihhblgnn)
